@@ -1,0 +1,5 @@
+-w index html tworzymy formularz  pobiramy imie nazwisko i wiek 
+=tworzymy obiekt 
+-wysyłamy go do odbierz.php
+-wyświetlamy
+-użyć ajaxa

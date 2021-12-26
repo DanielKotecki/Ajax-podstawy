@@ -1,0 +1,4 @@
+napisz program który wysyła do pliku odbierz.php obiekt javascript z danymi:
+-imie i nazwisko
+-wiek
+-adres(miejscowosc)

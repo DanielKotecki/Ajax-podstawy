@@ -1,0 +1,3 @@
+Ajax
+-dwa pliki jeden podstawowy z klawiszem i napisem:"plik podstawowy"
+-po klikniecu zastepuje wszystko z podstawowego na niepodstawowy na drugi 
